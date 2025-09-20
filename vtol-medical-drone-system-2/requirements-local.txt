@@ -1,0 +1,12 @@
+# VTOL Medical Drone System - Local Hosting Requirements
+# Minimal dependencies for local web server hosting
+
+# Core Python packages (usually included with Python)
+# No additional packages needed for basic HTTP server
+
+# Optional: For enhanced development experience
+# requests==2.31.0  # For making HTTP requests if needed
+# python-dotenv==1.0.0  # For environment variables
+
+# Note: The local server uses Python's built-in http.server module
+# which requires no additional dependencies beyond Python 3.6+
